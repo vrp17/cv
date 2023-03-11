@@ -1,0 +1,22 @@
+body{
+    background-color: #d9efbb;
+   }
+
+   h1{
+      color: rgb(238, 66, 221);
+   }
+   
+   h3{
+     color: rgb(238, 66, 221);
+   }
+
+   hr{
+    background-color: #d9efbb;
+     border-style : none;
+     border-top-style : dotted;
+     border-color : rgb(23, 23, 7);
+     border-width:7px;
+     width:5%;
+   }
+
+  
